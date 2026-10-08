@@ -1,0 +1,12 @@
+{
+  "name": "portal-smoke-test",
+  "version": "0.1.0",
+  "description": "Minimal public app for validating the Aldergrove portal deploy pipeline. Delete me once the private-repo flow lands.",
+  "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
